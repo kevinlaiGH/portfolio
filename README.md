@@ -5,8 +5,11 @@ Projects/tests that I have done in the past
 * [React frontend task with tests](https://github.com/kevinlaiGH/react-movie-service)
 * [Wordle challenge](https://github.com/kevinlaiGH/wordle-challenge)
 
-### NestJS && GraphQL
+### NestJS & GraphQL
 * [Self learn](https://github.com/kevinlaiGH/nestjs-graphql)
 
+### NodeJS
+* [banking-api](https://github.com/kevinlaiGH/banking-api)
 ### Data Structure and Algorithms
 * [Exercism](https://github.com/kevinlaiGH/Exercism)
+
