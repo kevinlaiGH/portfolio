@@ -13,3 +13,5 @@ Projects/tests that I have done in the past
 ### Data Structure and Algorithms
 * [Exercism](https://github.com/kevinlaiGH/Exercism)
 
+### Javascript
+*[Thoughtworks level up program](https://github.com/twlevelup/syd-2018-sem1-jupiter)
